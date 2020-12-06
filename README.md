@@ -5,3 +5,13 @@ An app developed to organize the day-to-day notes of a user, with custom data an
 
 ## live preview: https://keep-clone-d2d76.web.app/
 
+```bash
+#install all dependencies
+npm install
+
+#serve app with localhost: 8080
+npm run serve
+
+#build app for production
+npm run build
+```
